@@ -1,9 +1,10 @@
 # Hi, I'm Justin (Hsuan-Chen) Kao! 👋
 
-**PhD Student in Statistics, Rice University**
+**Ph.D. in Statistics, Rice University (2025 – Present)**
 
-**M.S. in Statistical Science, Duke University**
+**M.S. in Statistical Science, Duke University (2023 – 2025)**
 
+**Economics, The University of Texas at Austin**
 ---
 
 ## 📖 About Me
