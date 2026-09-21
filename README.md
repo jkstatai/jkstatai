@@ -4,7 +4,8 @@
 
 **M.S. in Statistical Science, Duke University (2023 – 2025)**
 
-**Economics, The University of Texas at Austin**
+**Economics & Actuarial Science, The University of Texas at Austin**
+
 ---
 
 ## 📖 About Me
