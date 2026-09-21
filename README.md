@@ -29,4 +29,4 @@
 ## 🔗 Links
 
 - 🌐 Website: [jkstatai.github.io](https://jkstatai.github.io)
-- 🙋 Linkedin: [www.linkedin.com/in/justin-kao-asa-9248ba16a][www.linkedin.com/in/justin-kao-asa-9248ba16a]
+- 🙋 Linkedin: [www.linkedin.com/in/justin-kao-asa][www.linkedin.com/in/justin-kao-asa-9248ba16a]
