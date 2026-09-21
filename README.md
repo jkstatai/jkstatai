@@ -1,4 +1,4 @@
-# Hi, I'm Justin (Hsuan-Chen) Kao! 👋
+# Hi, I'm Justin (Hsuan-Chen) Kao! 🤟
 
 **Ph.D. in Statistics, Rice University (2025 – Present)**
 
@@ -10,9 +10,9 @@
 
 ## 📖 About Me
 
-🎓 I'm a PhD student in the **Department of Statistics** at **Rice University**.
+🎓 I'm a PhD student at the **Department of Statistics, George R. Brown School of Engineering and Computing, Rice University**.
 
-🔬 My research lies at the intersection of **Bayesian methodology**, **predictive inference**, **time series analysis**, and **differential privacy**, with application interests in **quantitative trading** and **actuarial science**.
+🔬 My research focuses on advancing methodologies in **machine learning**, **graphical models**, **Bayesian semi/nonparametric modeling**, **Gaussian processes**, **hierarchical modeling**, **MCMC**, **time series analysis**, and **stochastic processes**. I develop statistical and machine learning applications to address complex, impactful challenges across **social networks**, **public health**, **economics**, **finance**, **actuarial science**, and beyond.
 
 📈 Currently, I work with **Dr. Meng Li** on *Hierarchical Bayes Optimal Posterior Contraction for Gaussian Process Derivative Functionals*.
 
