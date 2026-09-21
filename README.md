@@ -1,6 +1,7 @@
-# Hi, I'm Justin Kao! 👋
+# Hi, I'm Justin (Hsuan-Chen) Kao! 👋
 
 **PhD Student in Statistics, Rice University**
+
 **M.S. in Statistical Science, Duke University**
 
 ---
