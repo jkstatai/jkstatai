@@ -22,10 +22,11 @@
 
 ## 🛠️ Skills
 
-- **Languages:** R, Python, JavaScript, CSS, HTML
+- **Languages:** Python, R, JavaScript, CSS, HTML
 
 ---
 
 ## 🔗 Links
 
 - 🌐 Website: [jkstatai.github.io](https://jkstatai.github.io)
+- 🙋 Linkedin: [www.linkedin.com/in/justin-kao-asa-9248ba16a][www.linkedin.com/in/justin-kao-asa-9248ba16a]
