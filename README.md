@@ -1,4 +1,4 @@
-# Hi, I'm Justin (Hsuan-Chen) Kao 🤟
+# Hi, I'm Justin (Hsuan-Chen) Kao, ASA🤟
 
 **Ph.D. in Statistics, Rice University (2025 – Present)**
 
@@ -14,9 +14,9 @@
 
 🔬 My research focuses on advancing methodologies in machine learning, graphical models, Bayesian semi/nonparametric modeling, Gaussian processes, hierarchical modeling, MCMC, time series analysis, and stochastic processes. I develop statistical and machine learning applications to address complex, impactful challenges across social networks, public health, economics, finance, actuarial science, and beyond.
 
-📈 Currently, I work with **Dr. Meng Li** on *Hierarchical Bayes Optimal Posterior Contraction for Gaussian Process Derivative Functionals*.
+📈 Currently, I work with **Dr. Meng Li** on _Hierarchical Bayes Optimal Posterior Contraction for Gaussian Process Derivative Functionals_.
 
-🔒 Previously, I worked with **Dr. Jerry Reiter** at Duke University on *Bayesian and frequentist intervals under differential privacy for binomial proportions*.
+🔒 Previously, I worked with **Dr. Jerry Reiter** at Duke University on _Bayesian and frequentist intervals under differential privacy for binomial proportions_.
 
 ---
 
@@ -24,7 +24,7 @@
 
 **Society of Actuaries (SOA)** — Schaumburg, IL  
 **Associate of the Society of Actuaries (ASA), ID: 927968**  
-*April 2024 – Present*
+_April 2024 – Present_
 
 - Exam PA: Predictive Analytics — Apr 2023
 - Exam FAM-S: Fundamentals of Actuarial Mathematics – Short-Term — Mar 2023
@@ -36,14 +36,11 @@
 - Exam FM: Financial Mathematics — Feb 2021
 - Exam P: Probability — May 2020
 
-
-
-
 ---
 
 ## 🛠️ Skills
 
-- **Languages:** Python, R, JavaScript, CSS, HTML
+- **Languages:** Python, R, JavaScript, CSS, HTML, Git
 
 ---
 
