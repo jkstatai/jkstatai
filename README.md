@@ -1,4 +1,4 @@
-# Hi, I'm Justin (Hsuan-Chen) Kao 🤟!!
+# Hi, I'm Justin (Hsuan-Chen) Kao 🤟!!！！！
 
 **Ph.D. in Statistics, Rice University (2025 – Present)**
 
