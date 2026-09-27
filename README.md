@@ -14,7 +14,7 @@ I am always happy to collaborate if the project is interesting or you have a goo
 
 </div>
 
-## 📖 Education
+## 📚 **Education**
 
 **Ph.D. in Statistics, Rice University (2025 – Present)**
 
@@ -36,7 +36,7 @@ I am always happy to collaborate if the project is interesting or you have a goo
 
 ---
 
-## 🛠️ **Technologies & Tools**
+## 🛠️ **Skills & Tools**
 
 ![HTML5 GIF](https://skillicons.dev/icons?i=html)
 ![CSS3 GIF](https://skillicons.dev/icons?i=css)
