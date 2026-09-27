@@ -6,7 +6,19 @@
 
 **Economics & Actuarial Science, The University of Texas at Austin**
 
----
+
+<div align="center">
+
+## 🌟 **Let's Connect!**
+
+I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out to me!
+
+[![Website](https://img.shields.io/badge/-Personal_Website-4A90E2?style=flat-square&logo=About.me&logoColor=white)](https://yourwebsite.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justin-kao-asa-9248ba16a/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jk201@rice.edu)
+
+</div>
+
 
 ## 📖 About Me
 
@@ -17,6 +29,27 @@
 📈 Currently, I work with **Dr. Meng Li** on _Hierarchical Bayes Optimal Posterior Contraction for Gaussian Process Derivative Functionals_.
 
 🔒 Previously, I worked with **Dr. Jerry Reiter** at Duke University on _Bayesian and frequentist intervals under differential privacy for binomial proportions_.
+
+---
+
+## 🛠️ **Technologies & Tools**
+
+![HTML5 GIF](https://skillicons.dev/icons?i=html)
+![CSS3 GIF](https://skillicons.dev/icons?i=css)
+![JavaScript GIF](https://skillicons.dev/icons?i=javascript)
+![React](https://skillicons.dev/icons?i=react)
+![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![Python](https://skillicons.dev/icons?i=python)
+![Django](https://skillicons.dev/icons?i=django)
+![MongoDB GIF](https://skillicons.dev/icons?i=mongodb)
+![SQL GIF](https://skillicons.dev/icons?i=postgresql)
+![MySQL GIF](https://skillicons.dev/icons?i=mysql)
+![Git](https://skillicons.dev/icons?i=git)
+![VS Code](https://skillicons.dev/icons?i=vscode)
+![Docker](https://skillicons.dev/icons?i=docker)
+
 
 ---
 
