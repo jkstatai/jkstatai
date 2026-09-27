@@ -38,6 +38,8 @@ Curious soul, occasional overthinker, and full-time coffee dependent ☕. Always
 
 ## 🛠️ **Skills & Tools**
 
+<div align="center">
+
 
 ![Python](https://skillicons.dev/icons?i=python)
 ![PyTorch](https://skillicons.dev/icons?i=pytorch)
@@ -55,12 +57,15 @@ Curious soul, occasional overthinker, and full-time coffee dependent ☕. Always
 ![CSS3 GIF](https://skillicons.dev/icons?i=css)
 ![JavaScript GIF](https://skillicons.dev/icons?i=javascript)
 
+
+ </div>
+
 ---
 
 ## Professional License
 
 **Society of Actuaries (SOA)** — Schaumburg, IL  
-**Associate of the Society of Actuaries (ASA), ID: 927968**  
+**[Associate of the Society of Actuaries (ASA), ID: 927968](https://jkstatai.github.io//2024/04/01/ASA-designation.html)** \
 _April 2024 – Present_
 
 - Exam PA: Predictive Analytics — Apr 2023
