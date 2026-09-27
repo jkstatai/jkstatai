@@ -33,6 +33,7 @@ I am always happy to collaborate if the project is interesting or you have a goo
 📈 Currently, I work with **[Dr. Meng Li](https://meng.rice.edu/)** on _Hierarchical Bayes Optimal Posterior Contraction for Gaussian Process Derivative Functionals_.
 
 🔒 Previously, I worked with **[Dr. Jerry Reiter](https://www2.stat.duke.edu/~jerry/)** at Duke University on _Bayesian and frequentist intervals under differential privacy for binomial proportions_.
+
 ---
 
 ## 🛠️ **Skills & Tools**
