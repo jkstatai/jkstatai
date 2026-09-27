@@ -9,6 +9,7 @@ I am always happy to collaborate if the project is interesting or you have a goo
 [![Website](https://img.shields.io/badge/-Personal_Website-4A90E2?style=flat-square&logo=About.me&logoColor=white)](https://jkstatai.github.io/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justin-kao-asa-9248ba16a/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jk201@rice.edu)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jkstatai)
 
 </div>
 
