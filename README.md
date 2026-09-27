@@ -2,9 +2,9 @@
 
 <div align="center">
 
-## 🌟 **Let's Connect!**
+##  **🔗🔗 Let's Connect!**
 
-I am always happy to collaborate if the project is interesting or you have a good idea. I also run on coffee ☕ — feel free to reach out!
+Curious soul, occasional overthinker, and full-time coffee dependent ☕. Always happy to collaborate on something interesting — feel free to reach out!
 
 [![Website](https://img.shields.io/badge/-Personal_Website-4A90E2?style=flat-square&logo=About.me&logoColor=white)](https://jkstatai.github.io/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justin-kao-asa-9248ba16a/)
@@ -38,20 +38,22 @@ I am always happy to collaborate if the project is interesting or you have a goo
 
 ## 🛠️ **Skills & Tools**
 
-![HTML5 GIF](https://skillicons.dev/icons?i=html)
-![CSS3 GIF](https://skillicons.dev/icons?i=css)
-![JavaScript GIF](https://skillicons.dev/icons?i=javascript)
-![React](https://skillicons.dev/icons?i=react)
-![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
+
 ![Python](https://skillicons.dev/icons?i=python)
-![Django](https://skillicons.dev/icons?i=django)
-![MongoDB GIF](https://skillicons.dev/icons?i=mongodb)
+![PyTorch](https://skillicons.dev/icons?i=pytorch)
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
+![Sklearn](https://skillicons.dev/icons?i=sklearn)
+![R](https://skillicons.dev/icons?i=r)
 ![SQL GIF](https://skillicons.dev/icons?i=postgresql)
 ![MySQL GIF](https://skillicons.dev/icons?i=mysql)
 ![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
 ![VS Code](https://skillicons.dev/icons?i=vscode)
+![HTML5 GIF](https://skillicons.dev/icons?i=html)
+![SASS](https://skillicons.dev/icons?i=sass)
+![RUBY](https://skillicons.dev/icons?i=ruby)
+![CSS3 GIF](https://skillicons.dev/icons?i=css)
+![JavaScript GIF](https://skillicons.dev/icons?i=javascript)
 
 ---
 
@@ -74,10 +76,12 @@ _April 2024 – Present_
 ---
 
 
-- **Languages:** Python, R, JavaScript, CSS, HTML, Git
 
 <!-- 
 ---
+
+- **Languages:** Python, R, JavaScript, CSS, HTML, Git
+
 
  ## 🔗 Links
 
