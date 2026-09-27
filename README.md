@@ -6,19 +6,17 @@
 
 **Economics & Actuarial Science, The University of Texas at Austin**
 
-
 <div align="center">
 
 ## 🌟 **Let's Connect!**
 
 I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out to me!
 
-[![Website](https://img.shields.io/badge/-Personal_Website-4A90E2?style=flat-square&logo=About.me&logoColor=white)](https://yourwebsite.com)
+[![Website](https://img.shields.io/badge/-Personal_Website-4A90E2?style=flat-square&logo=About.me&logoColor=white)](https://jkstatai.github.io/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justin-kao-asa-9248ba16a/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jk201@rice.edu)
 
 </div>
-
 
 ## 📖 About Me
 
@@ -49,7 +47,6 @@ I'm always open to collaborating on interesting projects or discussing new ideas
 ![Git](https://skillicons.dev/icons?i=git)
 ![VS Code](https://skillicons.dev/icons?i=vscode)
 ![Docker](https://skillicons.dev/icons?i=docker)
-
 
 ---
 
