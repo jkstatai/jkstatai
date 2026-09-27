@@ -4,7 +4,7 @@
 
 ## 🌟 **Let's Connect!**
 
-I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out to me!
+I am always happy to collaborate if the project is interesting or you have a good idea. I also run on coffee ☕ — feel free to reach out!
 
 [![Website](https://img.shields.io/badge/-Personal_Website-4A90E2?style=flat-square&logo=About.me&logoColor=white)](https://jkstatai.github.io/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justin-kao-asa-9248ba16a/)
