@@ -1,10 +1,4 @@
-# Hi, I'm Justin (Hsuan-Chen) Kao, ASA🤟
-
-**Ph.D. in Statistics, Rice University (2025 – Present)**
-
-**M.S. in Statistical Science, Duke University (2023 – 2025)**
-
-**Economics & Actuarial Science, The University of Texas at Austin**
+![banner](banner.svg)
 
 <div align="center">
 
@@ -17,6 +11,16 @@ I'm always open to collaborating on interesting projects or discussing new ideas
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jk201@rice.edu)
 
 </div>
+
+## 📖 Education
+
+**Ph.D. in Statistics, Rice University (2025 – Present)**
+
+**M.S. in Statistical Science, Duke University (2023 – 2025)**
+
+**Economics & Actuarial Science, The University of Texas at Austin**
+
+
 
 ## 📖 About Me
 
@@ -46,7 +50,6 @@ I'm always open to collaborating on interesting projects or discussing new ideas
 ![MySQL GIF](https://skillicons.dev/icons?i=mysql)
 ![Git](https://skillicons.dev/icons?i=git)
 ![VS Code](https://skillicons.dev/icons?i=vscode)
-![Docker](https://skillicons.dev/icons?i=docker)
 
 ---
 
@@ -72,9 +75,10 @@ _April 2024 – Present_
 
 - **Languages:** Python, R, JavaScript, CSS, HTML, Git
 
+<!-- 
 ---
 
-## 🔗 Links
+ ## 🔗 Links
 
 - 🌐 Website: [jkstatai.github.io](https://jkstatai.github.io)
 - 💼 LinkedIn: [linkedin.com/in/justin-kao-asa](https://www.linkedin.com/in/justin-kao-asa-9248ba16a/)
