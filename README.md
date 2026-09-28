@@ -31,7 +31,11 @@ Curious soul, occasional overthinker, and full-time coffee dependent ☕. Always
 
 I'm currently a PhD student in **Statistics** at **Rice University** (George R. Brown School of Engineering and Computing).
 
-My research focuses on advancing methodologies in machine learning, foundation models, pretraining models, Bayesian semi/nonparametric modeling, Gaussian processes, hierarchical modeling, and MCMC. I develop statistical and machine learning applications to address complex, impactful challenges across social networks, public health, economics, finance, actuarial science, and beyond.
+My research focuses on advancing methodologies in machine learning, foundation models, 
+pretraining models, Bayesian semi/nonparametric modeling, Gaussian processes, hierarchical 
+modeling, and MCMC — with a particular emphasis on prediction in tabular data. I develop 
+statistical and machine learning applications to address complex, impactful challenges across 
+social networks, public health, economics, finance, actuarial science, and beyond.
 
 > ✨ *For good research, I care deeply about the intuition behind all the technical details.*
 
