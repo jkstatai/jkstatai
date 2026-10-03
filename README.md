@@ -12,6 +12,9 @@ Curious soul, occasional overthinker, and full-time coffee dependent ☕. Always
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jkstatai)
 [![Rice University](https://img.shields.io/badge/-Rice_University-00205B?style=flat-square&logo=university&logoColor=white)](https://profiles.rice.edu/student/justin-kao)
 
+
+
+
 </div>
 
 ## 📚 **Education**
@@ -26,9 +29,16 @@ Curious soul, occasional overthinker, and full-time coffee dependent ☕. Always
 
 ## 📖 **About Me**
 
-🎓 I'm a PhD student at the **Department of Statistics, George R. Brown School of Engineering and Computing, Rice University**.
+I'm currently a PhD student in **Statistics** at **Rice University** (George R. Brown School of Engineering and Computing).
 
-🔬 My research focuses on advancing methodologies in machine learning, graphical models, Bayesian semi/nonparametric modeling, Gaussian processes, hierarchical modeling, MCMC, time series analysis, and stochastic processes. I develop statistical and machine learning applications to address complex, impactful challenges across social networks, public health, economics, finance, actuarial science, and beyond.
+My research focuses on advancing methodologies in machine learning, foundation models, 
+pretraining models, Bayesian semi/nonparametric modeling, Gaussian processes, hierarchical 
+modeling, and MCMC — with a particular emphasis on prediction in tabular data. I develop 
+statistical and machine learning applications to address complex, impactful challenges across 
+social networks, public health, economics, finance, actuarial science, and beyond.
+
+> ✨ *For good research, I care deeply about the intuition behind all the technical details.*
+
 
 📈 Currently, I work with **[Dr. Meng Li](https://meng.rice.edu/)** on _Hierarchical Bayes Optimal Posterior Contraction for Gaussian Process Derivative Functionals_.
 
