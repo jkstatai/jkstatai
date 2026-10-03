@@ -56,6 +56,8 @@ Curious soul, occasional overthinker, and full-time coffee dependent ☕. Always
 ![RUBY](https://skillicons.dev/icons?i=ruby)
 ![CSS3 GIF](https://skillicons.dev/icons?i=css)
 ![JavaScript GIF](https://skillicons.dev/icons?i=javascript)
+![Latex GIF](https://skillicons.dev/icons?i=latex)
+
 
 
  </div>
