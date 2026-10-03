@@ -56,17 +56,16 @@ social networks, public health, economics, finance, actuarial science, and beyon
 ![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
 ![Sklearn](https://skillicons.dev/icons?i=sklearn)
 ![R](https://skillicons.dev/icons?i=r)
+![VS Code](https://skillicons.dev/icons?i=vscode)
 ![SQL GIF](https://skillicons.dev/icons?i=postgresql)
 ![MySQL GIF](https://skillicons.dev/icons?i=mysql)
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
-![VS Code](https://skillicons.dev/icons?i=vscode)
 ![HTML5 GIF](https://skillicons.dev/icons?i=html)
 ![SASS](https://skillicons.dev/icons?i=sass)
 ![RUBY](https://skillicons.dev/icons?i=ruby)
 ![CSS3 GIF](https://skillicons.dev/icons?i=css)
 ![JavaScript GIF](https://skillicons.dev/icons?i=javascript)
-
 ![Latex GIF](https://skillicons.dev/icons?i=latex)
 
 
